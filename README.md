@@ -101,5 +101,7 @@ Este projeto está sob a licença [MIT](LICENSE).
 ## 🙋‍♂️ Autores 
 
 **João Pedro Rodrigues**  
+
 **Haroldo Monteiro** 
+
 **Ítalo Antônio** 
